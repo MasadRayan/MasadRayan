@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Masad Rayan
+# Hi 👋, I'm Masad Rayan
 A passionate Full Stack Web Developer 
 
 Email Me 👉 ✉️ **masadrayan2002@gmail.com** For Collaboration/Project or Anything Else. 
