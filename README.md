@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Masad Rayan
 A passionate Full Stack Web Developer 
 
-Email Me 👉 ✉️ **masadrayan2002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **masadrayan2002@gmail.com** For Collaboration/Project or Anything Else. 
 
 - 🔭 **I’m currently working on:** Building full-stack web applications using the MERN stack. I focus on creating dynamic, responsive, and scalable solutions for clients. 
 - 💬 **Ask me about:** Frontend development with React, handling RESTful APIs, Building backend with Node.js and Express.js, Collaboration, Tech Support.
@@ -29,10 +29,6 @@ Email Me 👉 ✉️ **masadrayan2002@gmail.com** For Collaboration/Project or A
 ![](https://nirzak-streak-stats.vercel.app/?user=MasadRayan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasadRayan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MasadRayan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
