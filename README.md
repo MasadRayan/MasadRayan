@@ -7,17 +7,23 @@
     <a href="mailto:masadrayan2002@gmail.com"><strong>📧 masadrayan2002@gmail.com</strong></a>
   </p>
   
-  <div style="margin: 15px 0;">
-    <a href="https://github.com/MasadRayan">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+ <div style="margin: 15px 0;">
+    <a href="https://facebook.com/masad.rayan.2024">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://www.linkedin.com/in/masad-rayan/">
+    <a href="https://instagram.com/masad_rayan">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://linkedin.com/in/masad-rayan">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://masad-rayan-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=world&logoColor=white" alt="Portfolio"/>
+    <a href="https://x.com/Masad_Rayan">
+      <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white" alt="X"/>
     </a>
-  </div>
+    <a href="mailto:masadrayan2002@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</div>
 </div>
 
 ---
@@ -36,9 +42,6 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable back
 - 🎯 Contributing to open-source projects and the developer community
 
 ---
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/masad.rayan.2024) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masad_rayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masad-rayan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Masad_Rayan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masadrayan2002@gmail.com) 
-
 
 # 💻 Tech Stack:
 
