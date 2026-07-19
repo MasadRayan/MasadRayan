@@ -20,9 +20,22 @@
   </div>
 </div>
 
-- 🔭 **I’m currently working on:** Building full-stack web applications using the MERN stack. I focus on creating dynamic, responsive, and scalable solutions for clients. 
-- 💬 **Ask me about:** Frontend development with React, handling RESTful APIs, Building backend with Node.js and Express.js, Collaboration, Tech Support.
+---
 
+## 👨‍💻 About Me
+
+I'm a passionate **Full Stack Developer** with a focus on building scalable backend systems and interactive frontend applications. I love solving complex problems and creating efficient, maintainable code. With expertise in modern JavaScript ecosystems, I'm committed to continuous learning and staying updated with the latest technologies in web development.
+
+### 🚀 What I'm Currently Doing
+
+- 🔨 Building scalable APIs with Node.js and Express
+- 💻 Exploring Next.js and modern React patterns
+- 📚 Learning and implementing best practices in backend architecture
+- 🤖 Learning RAG (Retrieval-Augmented Generation) and AI/LLM integration
+- 🧠 Experimenting with vector databases and embeddings for AI-powered apps
+- 🎯 Contributing to open-source projects and the developer community
+
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/masad.rayan.2024) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masad_rayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masad-rayan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Masad_Rayan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masadrayan2002@gmail.com) 
 
