@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- <h1>Masad Rayan</h1> -->
+  <h1>Masad Rayan</h1>
   <p><strong>Full Stack Developer · Backend Engineer</strong></p>
   
   <p>
