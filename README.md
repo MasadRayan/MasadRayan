@@ -83,7 +83,6 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable back
 
 ### 🎮 Contribution Activity
 
-# GitHub Contributions:
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
