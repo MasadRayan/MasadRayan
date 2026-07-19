@@ -52,7 +52,7 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable back
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/touhidcodes)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express,nestjs)](https://github.com/touhidcodes)
 
 ### Database & Model:
 [![Database & Model](https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase)](https://github.com/touhidcodes)
