@@ -24,8 +24,8 @@
     <a href="https://x.com/Masad_Rayan" target="-blank">
       <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white" alt="X"/>
     </a>
-    <a href="mailto:masadrayan2002@gmail.com" target="-blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="https://masad-rayan-portfolio.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=world&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
 </div>
