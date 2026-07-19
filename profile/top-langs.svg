@@ -164,16 +164,7 @@
           height="8"
           fill="#663399"
         />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="238.31"
-          y="0"
-          width="11.68"
-          height="8"
-          fill="#DA5B0B"
-        />
+
       
       
     <g transform="translate(0, 25)">
