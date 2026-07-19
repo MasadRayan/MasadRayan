@@ -15,9 +15,6 @@
     <a href="https://facebook.com/masad.rayan.2024" target="-blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://instagram.com/masad_rayan" target="-blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
     <a href="https://linkedin.com/in/masad-rayan" target="-blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
