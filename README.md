@@ -12,19 +12,19 @@
   </p>
   
  <div style="margin: 15px 0;">
-    <a href="https://facebook.com/masad.rayan.2024">
+    <a href="https://facebook.com/masad.rayan.2024" target="-blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://instagram.com/masad_rayan">
+    <a href="https://instagram.com/masad_rayan" target="-blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://linkedin.com/in/masad-rayan">
+    <a href="https://linkedin.com/in/masad-rayan" target="-blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://x.com/Masad_Rayan">
+    <a href="https://x.com/Masad_Rayan" target="-blank">
       <img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white" alt="X"/>
     </a>
-    <a href="mailto:masadrayan2002@gmail.com">
+    <a href="mailto:masadrayan2002@gmail.com" target="-blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
