@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Masad%20Rayan&fontSize=48&fontColor=ffffff&color=0:0F172A,100:2563EB" />
+</div>
+
+<div align="center">
   <h1>Masad Rayan</h1>
   <p><strong>Full Stack Developer · Backend Engineer</strong></p>
   
