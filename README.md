@@ -1,7 +1,24 @@
-# Hi 👋, I'm Masad Rayan
-A passionate Full Stack Web Developer 
-
-Email Me 👉 ✉️ **masadrayan2002@gmail.com** For Collaboration/Project or Anything Else. 
+<div align="center">
+  <!-- <h1>Masad Rayan</h1> -->
+  <p><strong>Full Stack Developer · Backend Engineer</strong></p>
+  
+  <p>
+    <strong>📍 Chattogram, Bangladesh</strong> | 
+    <a href="mailto:masadrayan2002@gmail.com"><strong>📧 masadrayan2002@gmail.com</strong></a>
+  </p>
+  
+  <div style="margin: 15px 0;">
+    <a href="https://github.com/MasadRayan">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/masad-rayan/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://masad-rayan-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=world&logoColor=white" alt="Portfolio"/>
+    </a>
+  </div>
+</div>
 
 - 🔭 **I’m currently working on:** Building full-stack web applications using the MERN stack. I focus on creating dynamic, responsive, and scalable solutions for clients. 
 - 💬 **Ask me about:** Frontend development with React, handling RESTful APIs, Building backend with Node.js and Express.js, Collaboration, Tech Support.
