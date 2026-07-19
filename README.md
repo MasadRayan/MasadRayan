@@ -86,3 +86,11 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable back
 
 ---
 
+## 🎯 My Goals
+- 🌟 Build things that solve real problems
+- 🏗️ Get deep into backend architecture
+- 🌍 Work with great developers worldwide
+- 🧠 Get genuinely good at RAG/AI
+- 🔥 Make my open-source PRs count
+
+---
