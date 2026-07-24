@@ -74,7 +74,6 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable back
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/MasadRayan/MasadRayan/main/profile/stats.svg" alt="GitHub Stats"/>
   <img height="180" src="https://raw.githubusercontent.com/MasadRayan/MasadRayan/main/profile/top-langs.svg" alt="Top Languages"/>
 </div>
 
